@@ -1,4 +1,5 @@
 #+TITLE: Spacemacs: Cool Tricks, No Clicks
+#+SUBTITLE: /Better editing without a mouse/
 * Intro
 * Demo
 - Code
