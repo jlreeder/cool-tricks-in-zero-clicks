@@ -1,0 +1,29 @@
+#+TITLE: Spacemacs: Cool Tricks, No Clicks
+* Intro
+* Demo
+- Code
+  - Ruby
+  - Fly Check
+  - Rspec
+  - Docs
+  - Git
+  - Dired
+  - Terminal
+- Text
+  - Extreme folding
+  - TODOs
+  - Capture
+  - Time tracking
+  - Embed code
+* Extras
+- Vi(m) commands
+- Calculator
+- Web browsing
+- Non ASCII chars
+- Stallman on Freedom: YouTube
+- Evernote Integration: Geek Note
+- Mobile: Orgzly (Android) & Editorial (iOS)
+- Remapping ~control~
+- Email: Markdown Here
+- Emacs for Writers: YouTube
+- Vimium
