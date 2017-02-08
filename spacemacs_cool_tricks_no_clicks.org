@@ -1,9 +1,9 @@
 #+TITLE: Spacemacs: Cool Tricks, No Clicks
 #+SUBTITLE: /Better editing without a mouse/
 * Intro
-** The false dichotomy
 ** Goals
 ** Anti-Goals
+** (Spac)emacs
 * Org-mode
 ** Note taking
 - Bullets etc.
@@ -14,11 +14,10 @@
 - Time tracking
 - Agenda
 - Capture
-** It's plain text
+** Life in plain text
 - Git
 - Vim
-* Code
-** Ruby
+* Ruby
 - Fly check
 - Rspec
 - Docs
@@ -37,3 +36,5 @@
 - Email: Markdown Here
 - Emacs for Writers: YouTube
 - Vimium
+* Maybe
+** The false dichotomy
