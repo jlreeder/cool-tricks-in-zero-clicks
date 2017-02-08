@@ -1,26 +1,35 @@
 #+TITLE: Spacemacs: Cool Tricks, No Clicks
 #+SUBTITLE: /Better editing without a mouse/
 * Intro
-* Demo
+** The false dichotomy
+** Goals
+** Anti-Goals
+* Org-mode
+** Note taking
+- Bullets etc.
 - Code
-  - Ruby
-  - Fly Check
-  - Rspec
-  - Docs
-  - Git
-  - Dired
-  - Terminal
-- Text
-  - Extreme folding
-  - TODOs
-  - Capture
-  - Time tracking
-  - Embed code
+- Extreme folding
+** Task management
+- TODOs
+- Time tracking
+- Agenda
+- Capture
+** It's plain text
+- Git
+- Vim
+* Code
+** Ruby
+- Fly check
+- Rspec
+- Docs
+* As an OS
+- Dired
+- Terminal
+- Web browsing
+- Calculator
 * Extras
 - Vi(m) commands
-- Calculator
-- Web browsing
-- Non ASCII chars
+- الحروف غير اللاتينية
 - Stallman on Freedom: YouTube
 - Evernote Integration: Geek Note
 - Mobile: Orgzly (Android) & Editorial (iOS)
