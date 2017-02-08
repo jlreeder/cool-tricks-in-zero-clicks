@@ -1,33 +1,50 @@
 #+TITLE: Spacemacs: Cool Tricks, No Clicks
-#+SUBTITLE: /Better editing without a mouse/
-* Intro
-** Goals
-** Anti-Goals
-** (Spac)emacs
-* Org-mode
-** Note taking
+#+SUBTITLE: /Better living without a mouse/
+* Goals
+
+** This presentation is
+- A demonstration of the beauty of Emacs
+- An attempt to convince some to try it
+* Anti-Goals
+
+** This presentation is not
+- A tutorial
+- A rant
+
+* Overview
+
+1) Org-mode
+2) Code
+3) Beyond
+* (Spac)emacs
+* Org: Note taking
+
 - Bullets etc.
 - Code
 - Extreme folding
-** Task management
+* Org: Task management
+
 - TODOs
 - Time tracking
 - Agenda
 - Capture
-** Life in plain text
+* Org: Life in plain text
+
 - Git
-- Vim
+- Vi(m)
 * Ruby
+
 - Fly check
 - Rspec
 - Docs
 * As an OS
+/A great operating system, lacking only a good text editor.../
+
 - Dired
 - Terminal
 - Web browsing
 - Calculator
 * Extras
-- Vi(m) commands
 - الحروف غير اللاتينية
 - Stallman on Freedom: YouTube
 - Evernote Integration: Geek Note
@@ -38,3 +55,6 @@
 - Vimium
 * Maybe
 ** The false dichotomy
+* Housekeeping
+- Find this presentation here:
+- Contact me: info@jasonreeder.com
