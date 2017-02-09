@@ -2,6 +2,13 @@
 * Note Taking
 ** Bullets
 ** Code snippets
+#+BEGIN_SRC ruby
+def multiply_by_6(num)
+  num * 6
+end
+
+multiply_by_6(10)
+#+END_SRC
 ** Extreme folding
 * Task management
 ** TODOs
@@ -11,3 +18,9 @@
 * Life in plain text
 ** Git
 ** Vi(m)
+** Examples
+*** Sanskrit dictionary
+- [[file:monier_short.xml][Original dictionary]]
+- [[file:arabic_mw.org][Etymologies work]]      
+*** Personal todos
+- [[file:~/Created/Todos/todos.org][personal-todos]]
