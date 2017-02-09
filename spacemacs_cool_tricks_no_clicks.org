@@ -1,4 +1,4 @@
-#+TITLE: Spacemacs: Cool Tricks, No Clicks
+#+TITLE: Spacemacs: Cool Tricks in Zero Clicks
 #+SUBTITLE: /Better living without a mouse/
 * Goals
 
