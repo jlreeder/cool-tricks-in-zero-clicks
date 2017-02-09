@@ -44,6 +44,7 @@
 - Terminal
 - Web browsing
 - Calculator
+- Navigating markdown docs
 * Extras
 - الحروف غير اللاتينية
 - Stallman on Freedom: YouTube
