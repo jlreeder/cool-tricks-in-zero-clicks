@@ -1,5 +1,12 @@
 #+TITLE: Cool Tricks in Zero Clicks
 #+SUBTITLE: /An introduction to Spacemacs/
+ *Jason Reeder*
+
+ Starting at 12:30
+
+ Need a testimonial? Ask this guy:
+
+    [[./img/this_guy.jpg]]
 * Goals
 
 ** This presentation is
