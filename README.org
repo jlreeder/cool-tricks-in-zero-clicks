@@ -1,2 +1,2 @@
-#+TITLE: Spacemacs: Cool Tricks in Zero Clicks
-/A presentation on Spacemacs/
+#+TITLE: Cool Tricks in Zero Clicks
+/An introduction to Spacemacs/

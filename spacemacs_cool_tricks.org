@@ -1,5 +1,5 @@
-#+TITLE: Spacemacs: Cool Tricks in Zero Clicks
-#+SUBTITLE: /Better living without a mouse/
+#+TITLE: Cool Tricks in Zero Clicks
+#+SUBTITLE: /An introduction to Spacemacs/
 * Goals
 
 ** This presentation is
