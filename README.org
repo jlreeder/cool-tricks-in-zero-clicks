@@ -1,2 +1,9 @@
 #+TITLE: Cool Tricks in Zero Clicks
 /An introduction to Spacemacs/
+* The Presentation
+The slides for the presentation are available here:
+[[file:cool_tricks_in_zero_clicks.org][cool_tricks_in_zero_clicks.org]]
+* Further exploration
+Here's a list of topics mentioned with links to more info.
+** Other
+- [[http://nihilisa-frank.tumblr.com/][(Nihi) Lisa Frank]]
