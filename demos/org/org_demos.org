@@ -21,6 +21,7 @@ multiply_by_6(10)
 ** Examples
 *** Sanskrit dictionary
 - [[file:monier_short.xml][Original dictionary]]
-- [[file:arabic_mw.org][Etymologies work]]      
+- [[file:monier_arabic_initial.org][Initial setup]]
+- [[file:monier_arabic_complete.org][Final work]]
 *** Personal todos
 - [[file:~/Created/Todos/todos.org][personal-todos]]
