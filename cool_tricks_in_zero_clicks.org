@@ -25,21 +25,13 @@ github.com/
 
     [[./img/lf_seal.jpg]]
 
-* Org: Note taking
+* Org-Mode
 
-- Bullets
-- Code snippets
-- Extreme folding
-* Org: Task management
+1) Note taking
+2) Task management
+3) Life in plain text
 
-- TODOs
-- Time tracking
-- Agenda
-- Capture
-* Org: Life in plain text
-
-- Git
-- Vi(m)
+ [[file:demos/org_demos.org][Org demos]]
 * Ruby
 
 - Fly check
