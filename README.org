@@ -5,5 +5,40 @@ The slides for the presentation are available here:
 [[file:cool_tricks_in_zero_clicks.org][cool_tricks_in_zero_clicks.org]]
 * Further exploration
 Here's a list of topics mentioned with links to more info.
+** Emacs Setup
+- [[https://emacsformacosx.com/][GUI Emacs]]
+- [[http://spacemacs.org/][Spacemacs]]
+*** Spacemacs packages I use
+[[https://github.com/syl20bnr/spacemacs/tree/master/layers/%252Blang/ruby][Config info for packages]]
+
+- auto-completion
+- better-defaults
+- chrome
+- deft
+- emoji
+- evernote
+- git
+- html
+- javascript
+- markdown
+- org
+- osx
+- php
+- python
+- ranger
+- ruby
+- shell
+- spell-checking
+- sql
+- syntax-checking
+- version-control
+- yaml
+** Org
+- [[http://orgmode.org/org.html#Working-with-source-code][Working with source code]]
+** Code
+- [[https://github.com/syl20bnr/spacemacs/tree/master/layers/%252Blang/ruby][Ruby layer]]
+- [[https://github.com/dgutov/robe][Robe]]
 ** Other
 - [[http://nihilisa-frank.tumblr.com/][(Nihi) Lisa Frank]]
+** Git
+- [[https://github.com/syl20bnr/spacemacs/tree/master/layers/%252Bsource-control/git][Git layer]]
