@@ -4,9 +4,8 @@
 
  Starting at 12:30
 
- Need a testimonial? Ask this guy:
+ Need a testimonial? Ask Alec.
 
-    [[./img/this_guy.jpg]]
 * Goals
 
 ** This presentation is
