@@ -33,12 +33,23 @@ Here's a list of topics mentioned with links to more info.
 - syntax-checking
 - version-control
 - yaml
+** Vi(m) Keys
+- [[https://www.labnol.org/internet/learning-vim-for-beginners/28820/][Learning Vi(m)]]
+- [[https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en][Vimium]]
+- [[https://github.com/atom/vim-mode][Atom vim-mode]]
 ** Org
 - [[http://orgmode.org/org.html#Working-with-source-code][Working with source code]]
+- Mobile: [[http://www.orgzly.com/][Orgzly]], [[https://www.reddit.com/r/emacs/comments/457iiz/get_orgmode_on_ios_with_editorial_app_functions/][Editorial]]
 ** Code
 - [[https://github.com/syl20bnr/spacemacs/tree/master/layers/%252Blang/ruby][Ruby layer]]
 - [[https://github.com/dgutov/robe][Robe]]
+** OS
+- [[https://www.gnu.org/software/emacs/manual/html_node/eww/Basics.html][Web browsing]]
 ** Other
+- [[https://www.youtube.com/watch?v=POexV1k62_Y][Free as in freedom]]
 - [[http://nihilisa-frank.tumblr.com/][(Nihi) Lisa Frank]]
+- [[https://www.youtube.com/watch?v=FtieBc3KptU][Emacs for Writers]]
+- [[https://www.emacswiki.org/emacs/MovingTheCtrlKey][Replace caps lock with control]]
+- [[http://markdown-here.com/][Markdown here]]
 ** Git
 - [[https://github.com/syl20bnr/spacemacs/tree/master/layers/%252Bsource-control/git][Git layer]]
