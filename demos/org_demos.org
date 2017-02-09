@@ -1,0 +1,13 @@
+#+TITLE: Org Demos
+* Note Taking
+** Bullets
+** Code snippets
+** Extreme folding
+* Task management
+** TODOs
+** Time tracking
+** Agenda
+** Capture
+* Life in plain text
+** Git
+** Vi(m)
