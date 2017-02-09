@@ -31,12 +31,15 @@ github.com/
 2) Task management
 3) Life in plain text
 
- [[file:demos/org_demos.org][Org demos]]
+[[file:demos/org/org_demos.org][Org demos]]
 * Ruby
 
-- Fly check
 - Rspec
-- Docs
+- Linting
+- Debugging
+- Pry
+
+[[file:demos/code/lib/card.rb][Code demo]]
 * As an OS
 /A great operating system,/
 /lacking only a good text editor.../
@@ -44,19 +47,18 @@ github.com/
 - Dired
 - Terminal
 - Web browsing
+  - https://en.wikipedia.org/wiki/Emperor_Norton
 - Calculator
 - Navigating markdown docs
 * Extras
-- الحروف غير اللاتينية
-- Stallman on Freedom: YouTube
-- Evernote Integration: Geek Note
-- Mobile: Orgzly (Android) & Editorial (iOS)
-- Remapping ~control~
-- Email: Markdown Here
-- Emacs for Writers: YouTube
-- Vimium
-* Maybe
-** The false dichotomy
-* Housekeeping
-- Find this presentation here:
+
+github.com/
+    jlreeder/
+      cool-tricks-in-zero-clicks
+
+[[https://github.com/jlreeder/cool-tricks-in-zero-clicks][GitHub Repo]]
+* Word of Caution
+[[./img/learning_curves.png]]
+* Contact
 - Contact me: info@jasonreeder.com
+- Slack: jlreeder
