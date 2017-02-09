@@ -9,18 +9,26 @@
 
 ** This presentation is not
 - A tutorial
-- A rant
+- A rant against any other editor
 
 * Overview
 
-1) Org-mode
-2) Code
-3) Beyond
+1) for *Ideas*
+2) for *Code*
+3) as an *OS*
+* Github
+
+github.com/
+    jlreeder/
+      cool-tricks-in-zero-clicks
 * (Spac)emacs
+
+    [[./img/lf_seal.jpg]]
+
 * Org: Note taking
 
-- Bullets etc.
-- Code
+- Bullets
+- Code snippets
 - Extreme folding
 * Org: Task management
 
@@ -38,7 +46,8 @@
 - Rspec
 - Docs
 * As an OS
-/A great operating system, lacking only a good text editor.../
+/A great operating system,/
+/lacking only a good text editor.../
 
 - Dired
 - Terminal
