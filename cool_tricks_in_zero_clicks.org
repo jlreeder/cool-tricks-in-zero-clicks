@@ -49,7 +49,7 @@ github.com/
 - Web browsing
   - https://en.wikipedia.org/wiki/Emperor_Norton
 - Calculator
-- Navigating markdown docs
+- [[file:~/Created/Projects/curriculum/README.md][Navigating markdown]]
 * Extras
 
 github.com/
