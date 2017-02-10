@@ -1,6 +1,20 @@
 #+TITLE: Org Demos
+#+BEGIN: clocktable :maxlevel 2 :scope file
+#+CAPTION: Clock summary at [2017-02-09 Thu 12:41]
+| Headline        | Time |      |
+|-----------------+------+------|
+| *Total time*      | *0:11* |      |
+|-----------------+------+------|
+| Task management | 0:11 |      |
+| \_  TODOs       |      | 0:11 |
+#+END:
+
 * Note Taking
 ** Bullets
+   - Bullet
+   - Bullet
+     - Oh this is interesting
+       *bold*
 ** Code snippets
 #+BEGIN_SRC ruby
 def multiply_by_6(num)
@@ -9,10 +23,21 @@ end
 
 multiply_by_6(10)
 #+END_SRC
+
+#+RESULTS:
+: 60
+
 ** Extreme folding
 * Task management
 ** TODOs
+*** Post this presentation
+    :LOGBOOK:
+    CLOCK: [2017-02-09 Thu 12:30]--[2017-02-09 Thu 12:41] =>  0:11
+    :END:
 ** Time tracking
+   :LOGBOOK:
+   CLOCK: [2017-02-09 Thu 12:41]--[2017-02-09 Thu 12:45] =>  0:04
+   :END:
 ** Agenda
 ** Capture
 * Life in plain text
@@ -25,3 +50,4 @@ multiply_by_6(10)
 - [[file:monier_arabic_complete.org][Final work]]
 *** Personal todos
 - [[file:~/Created/Todos/todos.org][personal-todos]]
+  
