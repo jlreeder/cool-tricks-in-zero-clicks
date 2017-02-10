@@ -9,7 +9,7 @@ Here's a list of topics mentioned with links to more info.
 - [[https://emacsformacosx.com/][GUI Emacs]]
 - [[http://spacemacs.org/][Spacemacs]]
 *** Spacemacs packages I use
-[[https://github.com/syl20bnr/spacemacs/tree/master/layers][Config info for packages]]
+[[http://spacemacs.org/doc/LAYERS.html][Config info for packages]]
 
 - auto-completion
 - better-defaults
